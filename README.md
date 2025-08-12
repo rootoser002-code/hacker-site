@@ -13,7 +13,7 @@ You can view and test the live site here:
 - You can use this site to practise and learn phishing stimulation / credential stealing 
 - Try logging in with the username `root` and password `toor` to see an "ACCESS GRANTED" message.
 - Any other login will display "ACCESS DENIED".
-- - This is purely for visual/demo purposes — no real authentication occurs.
+- This is purely for visual/demo purposes — no real authentication occurs.
 
 ## Learn More – Full Blog on Medium
 📖 A detailed blog post explaining the concept, design choices, code walkthrough, and how to deploy it using GitHub Pages is available on **Medium**:
