@@ -20,7 +20,6 @@ You can view and test the live site here:
 
 👉 [Read the full blog on Medium](https://medium.com/@your-medium-username)
 
-> *(Replace the Medium URL with your actual post link)*
 
 ## Notes
 - This is a static site hosted on GitHub Pages.
